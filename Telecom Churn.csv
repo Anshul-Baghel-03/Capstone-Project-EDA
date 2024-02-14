@@ -1,7 +1,0 @@
-Area Code,Churn,Churn Rate (%),,Day Charge,Eve Chrage,Night Charge,Internatioal Charge,
-408,FALSE,21.48,Mean,30.12,18.05,8.96,2.88,
-,TRUE,3.66,Mean,29.98,18.21,8.98,2.88,
-415,FALSE,42.57,Mean,30.87,17.06,9.23,2.74,
-,TRUE,7.08,Mean,30.72,17.06,9.14,2.74,
-510,FALSE,21.45,Mean,30.39,17.11,9.01,2.75,
-,TRUE,3.75,Mean,30.51,17.16,8.91,2.75,
